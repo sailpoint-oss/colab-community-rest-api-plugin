@@ -7,5 +7,6 @@
     <Reference class="sailpoint.object.SPRight" name="communityRestRoleResource"/>
     <Reference class="sailpoint.object.SPRight" name="communityRestBatchResource"/>
     <Reference class="sailpoint.object.SPRight" name="communityRestOperationResource"/>
+    <Reference class="sailpoint.object.SPRight" name="communityRestObjectResourceGetWorkgroups"/>
   </RightRefs>
 </Capability>

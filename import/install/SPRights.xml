@@ -5,4 +5,5 @@
   <SPRight displayName="Community REST API Role Resource Access" name="communityRestRoleResource"/>
   <SPRight displayName="Community REST API Batch Resource Access" name="communityRestBatchResource"/>
   <SPRight displayName="Community REST API Operation Resource Access" name="communityRestOperationResource"/>
+  <SPRight displayName="Community REST API Operation Resource Access" name="communityRestObjectResourceGetWorkgroups"/>
 </sailpoint>

@@ -11,6 +11,7 @@
             <String>sailpoint.community.rest.CounterResource</String>
             <String>sailpoint.community.rest.BatchResource</String>
             <String>sailpoint.community.rest.OperationResource</String>
+            <String>sailpoint.community.rest.ObjectResource</String>
           </List>
         </value>
       </entry>
